@@ -1,5 +1,6 @@
 <!--### Ricardo Pereira -->
 
+<!-- https://aboutmonica.com/blog/how-to-create-a-github-profile-readme -->
 
 <!--#F7DF1E
 
